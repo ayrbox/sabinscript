@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Simplefolio`,
-        short_name: `Simplefolio`,
+        name: `SabinScript`,
+        short_name: `SabinScript`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#d8d8d8`,
