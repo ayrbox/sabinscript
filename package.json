@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "@ayrbox/sabinscript",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "SabinScript is the nickname given to me by my friends and colleagues at DueDil.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
